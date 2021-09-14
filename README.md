@@ -20,13 +20,10 @@ The functions were tested on Matlab 2019b.
 
 ## References
 General description of TCT and TANOVA: 
-
-*Koenig, T., & Melie-García, L. (2009). Statistical analysis of multichannel scalp field data. In C. M. Michel, D. Brandeis, J. Wackermann, L. R. R. Gianotti, & T. Koenig (Eds.), Electrical Neuroimaging (pp. 169–190). Cambridge University Press. https://doi.org/10.1017/CBO9780511596889.009*
+* *Koenig, T., & Melie-García, L. (2009). Statistical analysis of multichannel scalp field data. In C. M. Michel, D. Brandeis, J. Wackermann, L. R. R. Gianotti, & T. Koenig (Eds.), Electrical Neuroimaging (pp. 169–190). Cambridge University Press. https://doi.org/10.1017/CBO9780511596889.009*
 
 Detailed description of randomisation (with Matlab code): 
-
-*Koenig, T., & Melie-García, L. (2010). A method to determine the presence of averaged event-related fields using randomization tests. Brain Topography, 23(3), 233–242. https://doi.org/10.1007/s10548-010-0142-1*
+* *Koenig, T., & Melie-García, L. (2010). A method to determine the presence of averaged event-related fields using randomization tests. Brain Topography, 23(3), 233–242. https://doi.org/10.1007/s10548-010-0142-1*
 
 Detailed description of TANOVA: 
-
-*Koenig, T., Kottlow, M., Stein, M., & Melie-García, L. (2011). Ragu: A free tool for the analysis of EEG and MEG event-related scalp field data using global randomization statistics. Computational Intelligence and Neuroscience, 2011, 1–14. https://doi.org/10.1155/2011/938925*
+* *Koenig, T., Kottlow, M., Stein, M., & Melie-García, L. (2011). Ragu: A free tool for the analysis of EEG and MEG event-related scalp field data using global randomization statistics. Computational Intelligence and Neuroscience, 2011, 1–14. https://doi.org/10.1155/2011/938925*

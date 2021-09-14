@@ -5,10 +5,10 @@ Topographic analyses of EEG data provide multivariate tests that add to mass uni
 The functions provided here allow performing the following tests:
  * TANOVA: topographic analyses of variance; These analyses allow testing whether the electric field on the scalp (and hence the cortical source/oscillator) systematically different between conditions. Dependent and independent samples tests are implemented.
  *  TCT: topographic consistency tests; These tests allow assessing the consistency of the electric field on the scalp across subjects within a condition, or across trials within a subject & condition
- *  GFP contrasts:
+ *  GFP contrasts: contrasts of the global field power; These analyses allow comparing the strength of EEG activation on the scalp. Dependent and independent samples tests are implemented.
 
 
-Functions are intended to fit into the fieldtrip ecosystem (https://www.fieldtriptoolbox.org/),
+Functions are intended to fit into the fieldtrip ecosystem (https://www.fieldtriptoolbox.org/).
 
 
 ## Install
